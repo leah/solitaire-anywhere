@@ -1,0 +1,15 @@
+a:link, a:visited, a:active {color: #466782; font-weight: bold; text-decoration: none}
+a:hover {text-decoration: underline overline; color: #93a9b4;}
+.drag{position:absolute;cursor:hand}
+.noDrag{position:absolute; cursor:not-allowed}
+.flip{position:absolute}
+.activeLink{color: #466782; cursor:hand}
+.inactiveLink{text-decoration: none; color: #b9b9b8; cursor:not-allowed}
+.header{background: #e6ffc0; color: #466782; font-weight: bold; font-family: Verdana,Arial; font-size: 12px; padding: 2px 6px; margin: 0px; border-width: 0px;}
+.info{background: #ffffff; color: #466782; font-weight: bold; font-family: Verdana,Arial; font-size: 12px; padding: 2px 6px; margin: 0px; border-width: 0px;}
+.inner{background: #ffffff; color: #466782; font-weight: bold; font-family: Verdana,Arial; font-size: 12px; padding: 0px; margin: 0px; border-width: 0px;}
+.line{background: #d0e7ae; color: #ffffff; font-family: Verdana,Arial; font-size: 1px; padding: 1px 6px; margin: 0px; border-width: 0px;}
+.score{background: #ffffff; color: #466782; font-weight: bold; text-align: right; font-family: Verdana,Arial; font-size: 14px; padding: 0px 0px; margin: 0px; border-width: 0px;}
+.border{background: #d0e7ae; padding: 4px 4px; margin: 0px; border-width: 0px;}
+.input{background: #e6ffc0; color: #466782; font-family: Verdana,Arial; font-size: 12px; padding: 2px 6px; margin: 0px; border-width: 0px;}
+.help{background: #ffffff; color: #466782; font-family: Verdana,Arial; font-size: 12px; padding: 2px 20px; margin: 0px; border-width: 0px;}
